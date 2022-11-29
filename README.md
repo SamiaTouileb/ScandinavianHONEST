@@ -1,5 +1,4 @@
-# Measuring-Harmful-Representations-in-Scandinavia-LMs
-Measuring Harmful Representations in Scandinavian Language Models
+# Measuring Harmful Representations in Scandinavia Language Models
 
 This repository contains the bias probes used and described in the paper ["*Measuring Harmful Representations in Scandinavian Language Models*"](https://arxiv.org/abs/2211.11678) by Samia Touileb and Debora Nozza, presented at the Fifth Workshop on Natural Lnagugae Processing and Computational Social Science, collocated with EMNLP 2022 in Abu Dhabi, Dec 7 2022.
 
