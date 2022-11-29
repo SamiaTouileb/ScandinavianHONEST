@@ -1,7 +1,7 @@
 # Measuring-Harmful-Representations-in-Scandinavia-LMs
 Measuring Harmful Representations in Scandinavian Language Models
 
-This repository contains the bias probes used and described in the paper ["*Measuring Harmful Representations in Scandinavian Language Models*"]([https://arxiv.org/abs/2211.11678]) by Samia Touileb and Debora Nozza, presented at the Fifth Workshop on Natural Lnagugae Processing and Computational Social Science, collocated with EMNLP 2022 in Abu Dhabi, Dec 7 2022.
+This repository contains the bias probes used and described in the paper ["*Measuring Harmful Representations in Scandinavian Language Models*"](https://arxiv.org/abs/2211.11678) by Samia Touileb and Debora Nozza, presented at the Fifth Workshop on Natural Lnagugae Processing and Computational Social Science, collocated with EMNLP 2022 in Abu Dhabi, Dec 7 2022.
 
 
 # Abstract of the paper
@@ -12,9 +12,9 @@ Scandinavian countries are perceived as role-models when it comes to gender equa
 
 We used two measures to quantufy the harmful representation of the selected Scandinavian language models:
 
-1. HONEST score: Following the work on (Nozza et al., 2021), we computed the HONEST scores using the python package available [*here*]([https://github.com/MilaNLProc/honest]). PLease refer to this paper if you would like to know more: Nozza D., Bianchi F., and Hovy D. "HONEST: Measuring hurtful sentence completion in language models." The 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, 2021. https://aclanthology.org/2021.naacl-main.191
+1. HONEST score: Following the work on (Nozza et al., 2021), we computed the HONEST scores using the python package available [*here*](https://github.com/MilaNLProc/honest). PLease refer to this paper if you would like to know more: Nozza D., Bianchi F., and Hovy D. "HONEST: Measuring hurtful sentence completion in language models." The 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, 2021. https://aclanthology.org/2021.naacl-main.191
 
-2. Toxic score: We used the [*perspective API*]([https://perspectiveapi.com/]) to compute the score. Check the paper for more details.  
+2. Toxic score: We used the [*perspective API*](https://perspectiveapi.com/) to compute the score. Check the paper for more details.  
 
 # Additional results
 
